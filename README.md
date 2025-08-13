@@ -6,6 +6,9 @@
 ## 使用API
 - [Jikan API](https://docs.api.jikan.moe/)
 
+## コード説明図
+![コード説明図](1.png)
+
 ## 利用方法
 ```bash
 pip install -r requirements.txt
