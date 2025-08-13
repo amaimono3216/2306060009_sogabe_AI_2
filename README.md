@@ -7,7 +7,7 @@
 - [Jikan API](https://docs.api.jikan.moe/)
 
 ## コード説明図
-![コード説明図](1.png)
+![コード説明図](1.jpeg)
 
 ## 利用方法
 ```bash
