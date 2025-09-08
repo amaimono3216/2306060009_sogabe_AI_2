@@ -10,9 +10,9 @@
 ![Layout](1.jpg)
 
 ## 利用方法
-```bash
+
 pip install -r requirements.txt
 streamlit run app.py
 
 ## 改善案
-- [改善案はこちら](./improvement.md)
+- [改善案はこちら](improvement.md)
