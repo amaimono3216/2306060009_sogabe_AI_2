@@ -13,3 +13,6 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 改善案
+- [改善案はこちら](./improvement.md)
